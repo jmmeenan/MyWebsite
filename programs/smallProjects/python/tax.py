@@ -17,7 +17,7 @@ def unmarriedTax(income):
 # 2 Finish this function
 # Calculates the taxes a married person owes for 2019
 # Input Parameters: amount of income in USD income
-# Return Value: amount taxes owed (USD)
+# Return Value: amount taxes owed (USD) 
 def marriedTax(income):
     if income <= 19400:
         return (income * .1)
