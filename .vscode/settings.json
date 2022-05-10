@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "programs/smallProjects/java",
+        "programs/largerProjects/ParkingGarageApp"
+    ]
+}

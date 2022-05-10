@@ -1,0 +1,26 @@
+***Welcome to Group 19s Parking Lot app!***
+- This program allows you to:
+	-Create an account
+	-Login to your account
+	-Store multiple parking lots for use by your parking business
+	-Add and manage spaces, and stewards who oversee your lot
+	-Manage and store financial transaction data, and user data
+
+-If you are not an admin or steward, this app allows you to:
+	-Create an account
+	-Login to your account 
+	-Add and manage cars associated with your account
+	-Rent a parking space
+	-Complete your parking space transaction
+
+To use the program, simply run it, and it will prompt you to make a new account, or login. 
+If you would like to login as an admin, type admin when prompted, and enter the default username and password.
+These are:
+Username: BillGates Password: Altiar
+
+To log in as a steward, make a steward account from the admin login.
+To log in as a user, simply make an account when prompted at the beginning, and it will automatically log you in 
+when youve made it. 
+Once youve logged in, it will show you your options for running the app. 
+
+***Enjoy!***
