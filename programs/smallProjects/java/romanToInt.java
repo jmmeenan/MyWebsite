@@ -56,6 +56,7 @@ public static int romanToInt(String s) {
 		System.out.println("Type in a Roman Number");
 		Scanner sc = new Scanner(System.in);
 		String a = sc.next();
-	        System.out.println(romanToInt(a));	
+	    System.out.println(romanToInt(a));
+        sc.close();	
 	}
 }

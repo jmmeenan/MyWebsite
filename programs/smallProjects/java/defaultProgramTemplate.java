@@ -1,4 +1,4 @@
-public class Whatever{
+public class defaultProgramTemplate{
 
 	public static boolean doSomething(){
 		return true;
@@ -7,3 +7,4 @@ public class Whatever{
 	public static void main(String[] args){
 		System.out.println("Noice");
 	}
+}
